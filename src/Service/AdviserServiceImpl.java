@@ -1,7 +1,7 @@
 package Service;
 
 import DTO.AdviserDTO;
-import Model.Adviser;
+import model.Adviser;
 import Repo.AdviserRepo;
 import Repo.AdviserRepoImpl;
 import mapper.AdviserMapper;

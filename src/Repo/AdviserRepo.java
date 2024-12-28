@@ -1,6 +1,6 @@
 package Repo;
 
-import Model.Adviser;
+import model.Adviser;
 
 import java.util.List;
 

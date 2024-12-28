@@ -1,6 +1,7 @@
-package Model;
+package model;
 
-public class Adviser {
+public class Student {
+
     private String firstName ;
     private String lastName ;
     private String userName;
@@ -38,10 +39,11 @@ public class Adviser {
         this.password = password;
     }
 
-    public Adviser() {
+    public Student() {
+
     }
 
-    public Adviser(String firstName, String lastName, String userName, String password) {
+    public Student(String firstName, String lastName, String userName, String password) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.userName = userName;
@@ -50,7 +52,7 @@ public class Adviser {
 
     @Override
     public String toString() {
-        return "Adviser{" +
+        return "Student{" +
                 "firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", userName='" + userName + '\'' +

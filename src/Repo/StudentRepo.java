@@ -1,6 +1,6 @@
 package Repo;
 
-import Model.Student;
+import model.Student;
 
 import java.util.List;
 

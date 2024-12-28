@@ -1,8 +1,8 @@
 package mapper;
 
 import DTO.AdviserDTO;
-import Model.Adviser;
-import Model.Student;
+import model.Adviser;
+import model.Student;
 
 public class AdviserMapper {
     public Adviser adviserDtoToAdviser(AdviserDTO adviserDTO){

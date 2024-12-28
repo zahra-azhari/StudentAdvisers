@@ -1,7 +1,7 @@
 package mapper;
 
 import DTO.StudentDTO;
-import Model.Student;
+import model.Student;
 
 public class StudentMapper {
 

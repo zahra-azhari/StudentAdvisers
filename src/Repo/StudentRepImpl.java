@@ -1,7 +1,7 @@
 package Repo;
 
 import DB.InMemoryDB;
-import Model.Student;
+import model.Student;
 
 import java.util.List;
 

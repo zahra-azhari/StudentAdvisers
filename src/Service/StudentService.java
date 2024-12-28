@@ -1,7 +1,7 @@
 package Service;
 
 import DTO.StudentDTO;
-import Model.Student;
+import model.Student;
 
 import java.util.List;
 

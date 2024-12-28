@@ -1,8 +1,7 @@
 package DB;
 
-import Model.Adviser;
-import Model.Student;
-import jdk.dynalink.beans.StaticClass;
+import model.Adviser;
+import model.Student;
 
 import java.util.ArrayList;
 import java.util.List;

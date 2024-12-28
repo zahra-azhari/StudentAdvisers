@@ -1,7 +1,7 @@
 package Service;
 
 import DTO.StudentDTO;
-import Model.Student;
+import model.Student;
 import Repo.StudentRepImpl;
 import Repo.StudentRepo;
 import mapper.StudentMapper;

@@ -1,7 +1,7 @@
 package Service;
 
 import DTO.AdviserDTO;
-import Model.Adviser;
+import model.Adviser;
 
 import java.util.List;
 

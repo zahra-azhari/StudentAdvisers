@@ -1,9 +1,10 @@
-import DTO.StudentDTO;
-import Model.Student;
-import Service.AdviseService;
+
+import DTO.*;
+import Service.*;
 import Service.AdviserServiceImpl;
 import Service.StudentService;
 import Service.StudentServiceImpl;
+import model.Student;
 
 public class Main {
     public static void main(String[] args) {

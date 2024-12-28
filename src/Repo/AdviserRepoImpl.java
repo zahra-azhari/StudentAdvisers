@@ -1,7 +1,7 @@
 package Repo;
 
 import DB.InMemoryDB;
-import Model.Adviser;
+import model.Adviser;
 
 import java.util.List;
 
